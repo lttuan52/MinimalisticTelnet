@@ -30,7 +30,7 @@ namespace MinimalisticTelnet
         TcpClient tcpSocket;
 
         int TimeOutMs = 100;
-        dfasdfsad
+        
         public TelnetConnection(string Hostname, int Port)
         {
             tcpSocket = new TcpClient(Hostname, Port);
