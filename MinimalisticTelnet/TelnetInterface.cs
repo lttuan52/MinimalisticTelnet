@@ -33,6 +33,7 @@ namespace MinimalisticTelnet
         
         public TelnetConnection(string Hostname, int Port)
         {
+            fasjdkhfaklsd
             tcpSocket = new TcpClient(Hostname, Port);
 
         }
